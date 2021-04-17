@@ -1,0 +1,34 @@
+body{
+	border: 20px solid gray;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 700px; 
+	width: 80%;
+	font-family: work sans;
+}
+
+.p1{
+	border-left: 5px solid gray;
+	padding: 5px;
+}
+.p2{
+	border-left: 5px solid gray;
+	padding: 5px;
+}
+.D1{
+	color: #000096;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+.D2{
+	color: #000096;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+h2{
+	color: #9e3c4f;
+	letter-spacing: 0.1rem;
+}
+.just{
+	margin-bottom: 20px;
+}
